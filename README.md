@@ -1,4 +1,4 @@
-<h2 align="left">Oi👋! Meu nome é Antônio Gabriel, e aqui está um pouco sobre meu conhecimento.</h2>
+<h2 align="left">Oi👋! Meu nome é Antônio Gabriel, e aqui está um pouco sobre meus conhecimentos.</h2>
 
 ###
 
